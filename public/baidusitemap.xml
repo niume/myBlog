@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://www.niuhead.com/2017/11/30/jqweui_toast/</loc>
+    <lastmod>2017-11-30T05:22:28.493Z</lastmod>
+    <data>
+        <display>
+        <title>jqweui loading 如何显示</title>
+        <pubTime>2017-11-30T05:03:09.000Z</pubTime>
+        
+        <tag>jqweui</tag>
+         
+        <tag>weui&#39;</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.niuhead.com/2017/06/02/interface/</loc>
+    <lastmod>2017-11-15T10:26:19.496Z</lastmod>
+    <data>
+        <display>
+        <title>如何优雅的使用接口</title>
+        <pubTime>2017-06-02T07:22:28.000Z</pubTime>
+        
+        <tag>接口</tag>
+         
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="PHP" url="http://www.niuhead.com/categories/PHP/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.niuhead.com/2017/11/11/Ubuntu17.04+github+hexo%20%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2017-11-13T06:54:20.514Z</lastmod>
+    <data>
+        <display>
+        <title>Ubuntu17.04+github+hexo 搭建博客</title>
+        <pubTime>2017-11-11T07:22:58.000Z</pubTime>
+        
+        <tag>github</tag>
+         
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.niuhead.com/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://www.niuhead.com/2017/10/06/mysql-lock/</loc>
+    <lastmod>2017-11-10T15:29:52.933Z</lastmod>
+    <data>
+        <display>
+        <title>《高性能MySQL》笔记 - MySQL 锁的基本类型</title>
+        <pubTime>2017-10-06T07:53:58.000Z</pubTime>
+        
+        <tag>MySQl</tag>
+         
+        <tag>高并发</tag>
+         
+        <tag>数据库锁</tag>
+         
+         
+           
+             
+              <breadCrumb title="MySQL" url="http://www.niuhead.com/categories/MySQL/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.niuhead.com/2017/10/05/hello-world/</loc>
+    <lastmod>2017-11-10T15:29:52.925Z</lastmod>
+    <data>
+        <display>
+        <title>写在开头</title>
+        <pubTime>2017-10-05T07:22:28.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="PHP" url="http://www.niuhead.com/categories/PHP/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>
