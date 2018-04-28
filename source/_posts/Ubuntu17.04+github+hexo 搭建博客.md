@@ -58,7 +58,7 @@ $ hexo s # 启动服务
 
 ```
 
-然后输入127.0.0.1：4000 就可以预览蓝
+然后输入127.0.0.1：4000 就可以预览了
 
 ### 第六步
 
@@ -88,7 +88,7 @@ $ hexo g
 $ hexo d
 
 ```
-就可以上传到github了。然后youname.github.io 就可以访问到blog蓝
+就可以上传到github了。然后youname.github.io 就可以访问到blog了
 
 
 
