@@ -5,10 +5,10 @@
     
   <url>
     <loc>http://www.niuhead.com/2018/04/28/mysql%E5%BB%BA%E7%AB%8B%E7%B4%A2%E5%BC%95/</loc>
-    <lastmod>2018-04-28T16:38:33.945Z</lastmod>
+    <lastmod>2018-04-29T04:29:27.427Z</lastmod>
     <data>
         <display>
-        <title>【MySQL学习笔记】 MySQL 建立索引</title>
+        <title>【MySQL学习笔记】 MySQL 建立索引的思路和实例</title>
         <pubTime>2018-04-28T15:54:39.000Z</pubTime>
         
          
@@ -23,12 +23,14 @@
     
   <url>
     <loc>http://www.niuhead.com/2018/04/18/sql%E4%BC%9A%E5%BC%95%E8%B5%B7%E5%85%A8%E8%A1%A8%E6%89%AB%E7%A0%81%E7%9A%84%E8%AF%AD%E5%8F%A5/</loc>
-    <lastmod>2018-04-18T15:21:02.324Z</lastmod>
+    <lastmod>2018-04-29T03:06:46.052Z</lastmod>
     <data>
         <display>
         <title>sql 会引起全表扫码的语句</title>
         <pubTime>2018-04-18T15:10:15.000Z</pubTime>
         
+        <tag>MySQL</tag>
+         
          
            
              

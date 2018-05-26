@@ -2,6 +2,7 @@
 title: sql 会引起全表扫码的语句
 date: 2018-04-18 23:10:15
 tags:
+- MySQL
 categories: PHP
 top: 20
 ---
